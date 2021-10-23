@@ -6,7 +6,7 @@ The aim of wetspinnr is to provide an inexpensive, simple and automatic apparatu
 
 
 ## Additional info
-BOM is included within the directory. Please 
+The Directory is under construction. The BOM is going to be included in the directory. Please 
 For more info on the open source project see:
 
 ## License
