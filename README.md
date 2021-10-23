@@ -1,7 +1,7 @@
 # wetspinnr
 ## Open Source wet-spinning apparatus
 
-The aim of wetspinnr is to provide an inexpensive, simple and automatic apparatus for the production of wet-spun. Fiber diameters may ranges around hundreds of micrometers.
+The aim of wetspinnr is to provide an inexpensive, simple and automatic apparatus for the production of wet-spun. Fiber diameters may ranges between hundreds of micrometers, dependently on the nozzle size.
 ![wet-spinning setups](https://github.com/piermatt/wetspinnr/blob/main/wetspinnr.jpg)
 
 
