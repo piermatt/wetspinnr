@@ -1,0 +1,5 @@
+The directory contains three svg files suitable for laser cutting. Preferred material: PMMA (Plexyglass). 
+FILE          SIZE (cm)
+laser_A_v1    25x20
+laser_B_v1    25x16
+laser_C_v1    25x22
