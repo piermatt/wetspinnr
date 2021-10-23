@@ -1,1 +1,3 @@
-
+Parts to be 3D printed (PLA is fine).
+lockA, B and C are intender to easy assemble togheter the laser-cut plexi surfaces.
+controller is the case to contain the oled display and the selection switches.
